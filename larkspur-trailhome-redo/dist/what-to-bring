@@ -1,35 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>What to Bring</title>
   </head>
   <body>
     <h1>What to Bring</h1>
-  <h3>Essential Gear</h3>
+    
+    <h2>Essential Gear</h2>
     <ul>
-      <li><p>Sturdy footwear: Sneakers with good tread or lightweight hiking shoes.</p></li>
-      <li><p>Navigation: A downloaded map of the trail or a screenshot of the trailhead marker.</p></li>
+      <li>Sturdy footwear: Sneakers with good tread or lightweight hiking shoes.</li>
+      <li>Navigation: A downloaded map of the trail or a screenshot of the trailhead marker.</li>
     </ul>
-    <h3>Hydration and Nutrition</h3>
+    
+    <h2>Hydration and Nutrition</h2>
     <ul>
-      <li><p>At least 16–32 ounces of water, especially during hot summer months.</p></li>
-      <li><p>Quick Snacks: Energy bars, trail mix, or fruit for longer loops.</p></li>
-      <li><p>Pet Water: A collapsible bowl and extra water.</p></li>
+      <li>At least 16–32 ounces of water, especially during hot summer months.</li>
+      <li>Quick Snacks: Energy bars, trail mix, or fruit for longer loops.</li>
+      <li>Pet Water: A collapsible bowl and extra water.</li>
     </ul>
-    <h3>Weather & Sun Protection</h3>
+    
+    <h2>Weather & Sun Protection</h2>
     <ul>
-      <li><p>Sunscreen: SPF 30 or higher.</p></li>
-      <li><p>Hat & Sunglasses: To shade your eyes and face from glare.</p></li>
-      <li><p>Light Layers: A windbreaker or light jacket for early morning or evening temperature drops.</p></li>
-      <li><p>Bug Spray: Insect repellent, especially for people that are thinking of going on the dirt trails.</p></li>
+      <li>Sunscreen: SPF 30 or higher.</li>
+      <li>Hat & Sunglasses: To shade your eyes and face from glare.</li>
+      <li>Light Layers: A windbreaker or light jacket for early morning or evening temperature drops.</li>
+      <li>Bug Spray: Insect repellent, especially for people that are thinking of going on the dirt trails.</li>
     </ul>
-    <h3>Personal Items & Tools</h3>
+    
+    <h2>Personal Items & Tools</h2>
     <ul>
-      <li><p>Cell Phone: Fully charged for emergencies, photos, and navigation.</p></li>
-      <li><p>First Aid Basics: Adhesive bandages, antiseptic wipes, and tweezers for splinters or ticks.</p></li>
-      <li><p>Trash Bag: A small grocery bag to pack out your own garbage and keep the trail clean.</p></li>
-      <li><p>Bags for Waste: Dog waste bags to clean up after pets.</p></li>
+      <li>Cell Phone: Fully charged for emergencies, photos, and navigation.</li>
+      <li>First Aid Basics: Adhesive bandages, antiseptic wipes, and tweezers for splinters or ticks.</li>
+      <li>Trash Bag: A small grocery bag to pack out your own garbage and keep the trail clean.</li>
+      <li>Bags for Waste: Dog waste bags to clean up after pets.</li>
     </ul>
   </body>
 </html>
-
