@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What to Bring</title>
+  </head>
+  <body>
+    <h1>What to Bring</h1>
+    
+    <h2>Essential Gear</h2>
+    <ul>
+      <li>Sturdy footwear: Sneakers with good tread or lightweight hiking shoes.</li>
+      <li>Navigation: A downloaded map of the trail or a screenshot of the trailhead marker.</li>
+    </ul>
+    
+    <h2>Hydration and Nutrition</h2>
+    <ul>
+      <li>At least 16–32 ounces of water, especially during hot summer months.</li>
+      <li>Quick Snacks: Energy bars, trail mix, or fruit for longer loops.</li>
+      <li>Pet Water: A collapsible bowl and extra water.</li>
+    </ul>
+    
+    <h2>Weather & Sun Protection</h2>
+    <ul>
+      <li>Sunscreen: SPF 30 or higher.</li>
+      <li>Hat & Sunglasses: To shade your eyes and face from glare.</li>
+      <li>Light Layers: A windbreaker or light jacket for early morning or evening temperature drops.</li>
+      <li>Bug Spray: Insect repellent, especially for people that are thinking of going on the dirt trails.</li>
+    </ul>
+    
+    <h2>Personal Items & Tools</h2>
+    <ul>
+      <li>Cell Phone: Fully charged for emergencies, photos, and navigation.</li>
+      <li>First Aid Basics: Adhesive bandages, antiseptic wipes, and tweezers for splinters or ticks.</li>
+      <li>Trash Bag: A small grocery bag to pack out your own garbage and keep the trail clean.</li>
+      <li>Bags for Waste: Dog waste bags to clean up after pets.</li>
+    </ul>
+  </body>
+</html>
